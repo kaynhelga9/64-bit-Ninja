@@ -5,5 +5,6 @@
 ## Details:
 	RAR file: contains the Executable version of the game plus the libraries needed to operate.
 	game.py: the original Python script i wrote.
+	setup.py: Python setup script for cx_Freeze to build.
 	icon.ico and icon.png: optional icons
 	idle1.png: image of ninja in-game.
