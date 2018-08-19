@@ -1,0 +1,12 @@
+1.0:
+	Added game mechanics
+	Added rain dodged meter
+
+1.051: Major Update
+	Added win and death counter
+	Update in-game menu
+	Added version history log outside of game
+	Fixed a bug where you can hide in the left screen indefinitely
+	Now you can press Space Bar to start the game
+	Added Pause funtionallity, press P to pause
+	Rebalance game difficulty
