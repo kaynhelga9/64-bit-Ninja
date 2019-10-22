@@ -1,10 +1,10 @@
 # 64-bit-Ninja
-## Discription: 
+## Description: 
 ### Simple 2D Game Using Pygame Module and Cx_Freeze to Convert it into an Executable.
 
 ## Details:
 
-#### RAR file: contains the Executable version of the game plus the libraries needed to operate. ( you only need this one if you only want to play the game )
+#### RAR file: contains the Executable version of the game and required libs. ( you only need this one if you only want to play the game )
 	
 ### File Content: 
 	game.py: the original Python script i wrote.
